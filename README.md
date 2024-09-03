@@ -6,7 +6,7 @@ In the age of information, people have an ever-growing need to share their exper
 
 Trivial Twitter is a simplified version of such social networking platforms. It mimics the fundamental aspects of social networking by implementing a client-server architecture that allows multiple clients to communicate instantaneously. This project utilizes a non-blocking server to orchestrate the exchange of text messages among users.
 
-## Features:
+## Features
 
 - **Inter-Process Communication**: Leveraging socket programming to establish communication between the server and clients.
 - **User Authentication**: Server authenticates users with a password to ensure credibility.
